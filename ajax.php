@@ -1,1 +1,7 @@
-ajax.php
+<?php 
+
+
+echo 1;
+
+
+ ?>
